@@ -14,7 +14,7 @@ function onYouTubeIframeAPIReady() {
     playerVars: {
       autoplay: true,   //  자동 재상 여부 
       loop: true,   //  반복 재생 여부 
-      playlist: 'SOoYi9Ob2OE'   //  반복 재생할 영상 ID 목록 
+      playlist: 'b8LIvFxdcGE'   //  반복 재생할 영상 ID 목록 
     },
     events: {
       onReady: function (event) {
